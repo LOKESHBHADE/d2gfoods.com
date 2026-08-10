@@ -40,6 +40,12 @@ CLEANUP_REMOVALS = [
 TEXT_REPLACEMENTS = [
     ("https://bombayfoodstuff.com", ""),
     ("http://bombayfoodstuff.com", ""),
+    ("Bombay Foodstuff Trading Co. LLC", "D2G Foodstuff trading L.L.C"),
+    ("Bombay Foodstuff Trading Co LLC", "D2G Foodstuff trading L.L.C"),
+    ("BOMBAY FOODSTUFF TRADING CO LLC", "D2G FOODSTUFF TRADING L.L.C"),
+    ("Bombay Foodstuff", "D2G Foodstuff"),
+    ("BOMBAY FOODSTUFF", "D2G FOODSTUFF"),
+    ("bombay foodstuff", "D2G Foodstuff"),
     ("tel:+971-4-225-1330", f"tel:{DUMMY_PHONE_TEL}"),
     ("+971-4-225-1330", DUMMY_PHONE_DISPLAY),
     ("tel:+971-4-225-1340", f"tel:{DUMMY_PHONE_TEL}"),
