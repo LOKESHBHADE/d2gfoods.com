@@ -33,9 +33,9 @@
 
   <!-- ============ D2G WORDMARK ============ -->
   <g font-family="Arial, Helvetica, sans-serif" font-weight="900" paint-order="stroke fill" stroke="#1A2332" stroke-width="4" stroke-linejoin="round">
-    <text x="228" y="300" font-size="152" fill="#1B5E3F">D</text>
+    <text x="228" y="300" font-size="152" fill="#FFFFFF">D</text>
     <text x="300" y="335" font-size="225" fill="#D4A24E" font-family="Georgia, 'Times New Roman', serif">2</text>
-    <text x="418" y="300" font-size="152" fill="#1B5E3F">G</text>
+    <text x="418" y="300" font-size="152" fill="#FFFFFF">G</text>
   </g>
 
   <!-- ============ GEM ACCENT ============ -->
@@ -48,6 +48,6 @@
 
   <!-- ============ TAGLINE ============ -->
   <line x1="182" y1="556" x2="272" y2="556" stroke="#D4A24E" stroke-width="2"/>
-  <text x="390" y="563" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5" fill="#1A2332" text-anchor="middle">DUBAI 2 GLOBAL</text>
+  <text x="390" y="563" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5" fill="#F7F4EE" text-anchor="middle">DUBAI 2 GLOBAL</text>
   <line x1="508" y1="556" x2="598" y2="556" stroke="#D4A24E" stroke-width="2"/>
 </svg>
